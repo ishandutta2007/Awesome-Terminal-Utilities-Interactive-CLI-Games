@@ -28,6 +28,7 @@ Welcome to **Awesome-Terminal-Utilities-Interactive-CLI-Games**! 🕹️ This re
 - [☁️ SaaS & Hosted Gaming Platforms](#️-saas--hosted-gaming-platforms)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [📈 Star History](#-star-history)
 - [⚖️ Disclaimer](#️-disclaimer)
 
@@ -166,6 +167,18 @@ Contributions are warmly welcomed! 🌟
 5. Open a Pull Request (PR) 📬
 
 Please ensure that project descriptions remain factual, neutral, and include working URLs and correct GitHub repository coordinates.
+
+---
+
+## 💖 Support & Sponsorship ☕
+
+Thank you so much for exploring and supporting **Awesome Terminal Utilities & Interactive CLI Games**! 🎉
+
+If you find this curated directory helpful, here is how you can support the project:
+- ⭐ **Star** this repository on GitHub to help others discover it!
+- 🍴 **Fork** and contribute your favorite CLI tools, roguelikes, or fantasy consoles.
+- 📢 **Share** this list with fellow terminal enthusiasts, colleagues, and retro gaming communities.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to back ongoing maintenance and open-source research, consider supporting via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Your support is deeply appreciated! 💖
 
 ---
 
