@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="360" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e17" />
+      <stop offset="50%" stop-color="#0d1527" />
+      <stop offset="100%" stop-color="#050811" />
+    </linearGradient>
+
+    <!-- Glowing Accent Gradients -->
+    <linearGradient id="neonGreen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="50%" stop-color="#06b6d4" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+
+    <linearGradient id="purplePink" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#ec4899" />
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      @keyframes pulse {
+        0%, 100% { opacity: 0.25; transform: scale(1); }
+        50% { opacity: 0.55; transform: scale(1.08); }
+      }
+      @keyframes floatParticle {
+        0% { transform: translateY(0px) translateX(0px); opacity: 0.2; }
+        50% { transform: translateY(-25px) translateX(15px); opacity: 0.8; }
+        100% { transform: translateY(0px) translateX(0px); opacity: 0.2; }
+      }
+      @keyframes scanline {
+        0% { transform: translateY(-360px); }
+        100% { transform: translateY(360px); }
+      }
+      @keyframes cursorBlink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      @keyframes codeScroll {
+        0% { transform: translateY(0); }
+        100% { transform: translateY(-120px); }
+      }
+
+      .ambient-orb1 { animation: pulse 8s ease-in-out infinite; transform-origin: 200px 100px; }
+      .ambient-orb2 { animation: pulse 10s ease-in-out infinite 3s; transform-origin: 1000px 250px; }
+      .particle-1 { animation: floatParticle 6s ease-in-out infinite; }
+      .particle-2 { animation: floatParticle 8s ease-in-out infinite 2s; }
+      .particle-3 { animation: floatParticle 7s ease-in-out infinite 4s; }
+      .cursor { animation: cursorBlink 1s infinite; }
+      .title-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'JetBrains Mono', monospace; font-weight: 800; }
+      .mono-text { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+    </style>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1200" height="360" rx="16" fill="url(#bgGradient)" stroke="#1e293b" stroke-width="2" />
+
+  <!-- Animated Ambient Glows (Behind all content) -->
+  <circle class="ambient-orb1" cx="200" cy="100" r="180" fill="#06b6d4" opacity="0.12" filter="url(#glow)" />
+  <circle class="ambient-orb2" cx="1020" cy="240" r="160" fill="#8b5cf6" opacity="0.15" filter="url(#glow)" />
+  <circle cx="600" cy="30" r="120" fill="#10b981" opacity="0.08" filter="url(#glow)" />
+
+  <!-- Subtle Cyber Grid Background -->
+  <g opacity="0.12" stroke="#38bdf8" stroke-width="1">
+    <line x1="0" y1="60" x2="1200" y2="60" />
+    <line x1="0" y1="120" x2="1200" y2="120" />
+    <line x1="0" y1="180" x2="1200" y2="180" />
+    <line x1="0" y1="240" x2="1200" y2="240" />
+    <line x1="0" y1="300" x2="1200" y2="300" />
+    <line x1="120" y1="0" x2="120" y2="360" />
+    <line x1="240" y1="0" x2="240" y2="360" />
+    <line x1="360" y1="0" x2="360" y2="360" />
+    <line x1="480" y1="0" x2="480" y2="360" />
+    <line x1="600" y1="0" x2="600" y2="360" />
+    <line x1="720" y1="0" x2="720" y2="360" />
+    <line x1="840" y1="0" x2="840" y2="360" />
+    <line x1="960" y1="0" x2="960" y2="360" />
+    <line x1="1080" y1="0" x2="1080" y2="360" />
+  </g>
+
+  <!-- Floating Dynamic Tech Particles -->
+  <circle class="particle-1" cx="160" cy="260" r="3" fill="#38bdf8" />
+  <circle class="particle-2" cx="340" cy="80" r="2.5" fill="#a855f7" />
+  <circle class="particle-3" cx="890" cy="110" r="3.5" fill="#34d399" />
+  <circle class="particle-1" cx="1060" cy="90" r="2" fill="#38bdf8" />
+  <circle class="particle-2" cx="1120" cy="270" r="3" fill="#f43f5e" />
+
+  <!-- Terminal Window Chrome Header Graphic -->
+  <g transform="translate(60, 40)">
+    <rect width="1080" height="280" rx="12" fill="#0b1120" fill-opacity="0.85" stroke="#334155" stroke-width="1.5" />
+    <!-- Window Controls -->
+    <circle cx="28" cy="24" r="6" fill="#ef4444" />
+    <circle cx="48" cy="24" r="6" fill="#eab308" />
+    <circle cx="68" cy="24" r="6" fill="#22c55e" />
+    <text x="100" y="28" fill="#64748b" font-size="12" font-family="'JetBrains Mono', monospace">bash - awesome-terminal-utilities-cli-games</text>
+    <line x1="0" y1="44" x2="1080" y2="44" stroke="#1e293b" stroke-width="1.5" />
+  </g>
+
+  <!-- Main Hero Titles & Subtitles (Kept firmly in foreground) -->
+  <g transform="translate(100, 140)">
+    <!-- Terminal Prompt Prompt Symbol -->
+    <text x="0" y="0" fill="#10b981" font-size="28" font-family="'JetBrains Mono', monospace" font-weight="900" filter="url(#softGlow)">❯_</text>
+
+    <!-- Main Title -->
+    <text x="50" y="0" fill="#ffffff" font-size="34" class="title-text" letter-spacing="-0.5">
+      Awesome Terminal Utilities &amp; CLI Games
+    </text>
+
+    <!-- Neon Accent Bar -->
+    <rect x="50" y="16" width="320" height="4" rx="2" fill="url(#neonGreen)" />
+
+    <!-- Subtitle -->
+    <text x="50" y="48" fill="#94a3b8" font-size="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">
+      Curated Catalog of TUI Frameworks, Roguelikes, Fantasy Consoles &amp; SSH Arcades
+    </text>
+
+    <!-- Interactive Badges / Tags inside Banner -->
+    <g transform="translate(50, 78)">
+      <!-- Badge 1: Rust & Go TUIs -->
+      <rect x="0" y="0" width="128" height="28" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1" />
+      <text x="64" y="18" fill="#38bdf8" font-size="11" font-family="'JetBrains Mono', monospace" font-weight="bold" text-anchor="middle">⚡ RUST &amp; GO TUIs</text>
+
+      <!-- Badge 2: Roguelikes & Arcades -->
+      <rect x="138" y="0" width="168" height="28" rx="6" fill="#1e293b" stroke="#a855f7" stroke-width="1" />
+      <text x="222" y="18" fill="#c084fc" font-size="11" font-family="'JetBrains Mono', monospace" font-weight="bold" text-anchor="middle">🎮 ROGUELIKES &amp; ARCADES</text>
+
+      <!-- Badge 3: SSH Multiplayer -->
+      <rect x="316" y="0" width="144" height="28" rx="6" fill="#1e293b" stroke="#34d399" stroke-width="1" />
+      <text x="388" y="18" fill="#34d399" font-size="11" font-family="'JetBrains Mono', monospace" font-weight="bold" text-anchor="middle">🌐 SSH MULTIPLAYER</text>
+
+      <!-- Badge 4: Fantasy Consoles -->
+      <rect x="470" y="0" width="154" height="28" rx="6" fill="#1e293b" stroke="#f59e0b" stroke-width="1" />
+      <text x="547" y="18" fill="#fbbf24" font-size="11" font-family="'JetBrains Mono', monospace" font-weight="bold" text-anchor="middle">👾 FANTASY CONSOLES</text>
+
+      <!-- Flashing CLI Cursor -->
+      <rect class="cursor" x="640" y="4" width="9" height="20" rx="1" fill="#38bdf8" />
+    </g>
+  </g>
+</svg>
