@@ -63,96 +63,96 @@ The following table provides detailed pricing tiers, specific free tier limits, 
 
 ## 💻 Open-Source GitHub Projects 🛠️
 
-Below is a curated collection of active open-source repositories for terminal games, TUI frameworks, fantasy consoles, and CLI toys, sorted in descending order by **GitHub Star count**:
+Below is a curated collection of active open-source repositories for terminal games, TUI frameworks, fantasy consoles, and CLI toys, sorted in descending order by **GitHub Stars_Count**:
 
-- **[Bubble Tea](https://github.com/charmbracelet/bubbletea)** [![GitHub stars](https://img.shields.io/github/stars/charmbracelet/bubbletea?style=social&color=white)](https://github.com/charmbracelet/bubbletea/stargazers)  
+- **[Bubble Tea](https://github.com/charmbracelet/bubbletea)** [![GitHub_Stars](https://img.shields.io/github/stars/charmbracelet/bubbletea?style=social&color=white)](https://github.com/charmbracelet/bubbletea/stargazers)  
   Powerful open-source Go TUI framework based on The Elm Architecture powering hundreds of interactive CLI utilities and terminal games.
 
-- **[Textual](https://github.com/Textualize/textual)** [![GitHub stars](https://img.shields.io/github/stars/Textualize/textual?style=social&color=white)](https://github.com/Textualize/textual/stargazers)  
+- **[Textual](https://github.com/Textualize/textual)** [![GitHub_Stars](https://img.shields.io/github/stars/Textualize/textual?style=social&color=white)](https://github.com/Textualize/textual/stargazers)  
   Modern open-source Python TUI framework enabling developers to build responsive, mouse-enabled terminal games and rich CLI applications with CSS-like styling.
 
-- **[wttr.in](https://github.com/chubin/wttr.in)** [![GitHub stars](https://img.shields.io/github/stars/chubin/wttr.in?style=social&color=white)](https://github.com/chubin/wttr.in/stargazers)  
+- **[wttr.in](https://github.com/chubin/wttr.in)** [![GitHub_Stars](https://img.shields.io/github/stars/chubin/wttr.in?style=social&color=white)](https://github.com/chubin/wttr.in/stargazers)  
   The right way to check the weather in the terminal with rich ANSI ASCII graphics and interactive controls.
 
-- **[cool-retro-term](https://github.com/Swordfish90/cool-retro-term)** [![GitHub stars](https://img.shields.io/github/stars/Swordfish90/cool-retro-term?style=social&color=white)](https://github.com/Swordfish90/cool-retro-term/stargazers)  
+- **[cool-retro-term](https://github.com/Swordfish90/cool-retro-term)** [![GitHub_Stars](https://img.shields.io/github/stars/Swordfish90/cool-retro-term?style=social&color=white)](https://github.com/Swordfish90/cool-retro-term/stargazers)  
   A good-looking terminal emulator which mimics the look and feel of old cathode ray tube (CRT) screens.
 
-- **[Gum](https://github.com/charmbracelet/gum)** [![GitHub stars](https://img.shields.io/github/stars/charmbracelet/gum?style=social&color=white)](https://github.com/charmbracelet/gum/stargazers)  
+- **[Gum](https://github.com/charmbracelet/gum)** [![GitHub_Stars](https://img.shields.io/github/stars/charmbracelet/gum?style=social&color=white)](https://github.com/charmbracelet/gum/stargazers)  
   A tool for glamorous, interactive shell scripts and CLI game menus powered by Bubble Tea.
 
-- **[neofetch](https://github.com/dylanaraps/neofetch)** [![GitHub stars](https://img.shields.io/github/stars/dylanaraps/neofetch?style=social&color=white)](https://github.com/dylanaraps/neofetch/stargazers)  
+- **[neofetch](https://github.com/dylanaraps/neofetch)** [![GitHub_Stars](https://img.shields.io/github/stars/dylanaraps/neofetch?style=social&color=white)](https://github.com/dylanaraps/neofetch/stargazers)  
   Iconic CLI system information tool written in bash with fast ASCII art logos and visual customization.
 
-- **[Ratatui](https://github.com/ratatui/ratatui)** [![GitHub stars](https://img.shields.io/github/stars/ratatui/ratatui?style=social&color=white)](https://github.com/ratatui/ratatui/stargazers)  
+- **[Ratatui](https://github.com/ratatui/ratatui)** [![GitHub_Stars](https://img.shields.io/github/stars/ratatui/ratatui?style=social&color=white)](https://github.com/ratatui/ratatui/stargazers)  
   The leading open-source Rust library for cooking up rich terminal user interfaces, TUI games, canvas graphics, and interactive dashboards.
 
-- **[awesome-tuis](https://github.com/rothgar/awesome-tuis)** [![GitHub stars](https://img.shields.io/github/stars/rothgar/awesome-tuis?style=social&color=white)](https://github.com/rothgar/awesome-tuis/stargazers)  
+- **[awesome-tuis](https://github.com/rothgar/awesome-tuis)** [![GitHub_Stars](https://img.shields.io/github/stars/rothgar/awesome-tuis?style=social&color=white)](https://github.com/rothgar/awesome-tuis/stargazers)  
   Curated list of excellent terminal user interfaces and text-based interactive applications.
 
-- **[Cataclysm: Dark Days Ahead (CDDA)](https://github.com/CleverRaven/Cataclysm-DDA)** [![GitHub stars](https://img.shields.io/github/stars/CleverRaven/Cataclysm-DDA?style=social&color=white)](https://github.com/CleverRaven/Cataclysm-DDA/stargazers)  
+- **[Cataclysm: Dark Days Ahead (CDDA)](https://github.com/CleverRaven/Cataclysm-DDA)** [![GitHub_Stars](https://img.shields.io/github/stars/CleverRaven/Cataclysm-DDA?style=social&color=white)](https://github.com/CleverRaven/Cataclysm-DDA/stargazers)  
   Deep open-source turn-based post-apocalyptic survival roguelike RPG playable in terminal curses or graphical tilesets across Linux, macOS, and Windows.
 
-- **[lf](https://github.com/gokcehan/lf)** [![GitHub stars](https://img.shields.io/github/stars/gokcehan/lf?style=social&color=white)](https://github.com/gokcehan/lf/stargazers)  
+- **[lf](https://github.com/gokcehan/lf)** [![GitHub_Stars](https://img.shields.io/github/stars/gokcehan/lf?style=social&color=white)](https://github.com/gokcehan/lf/stargazers)  
   Terminal file manager written in Go inspired by ranger with blazing performance and interactive keyboard bindings.
 
-- **[TIC-80](https://github.com/nesbox/TIC-80)** [![GitHub stars](https://img.shields.io/github/stars/nesbox/TIC-80?style=social&color=white)](https://github.com/nesbox/TIC-80/stargazers)  
+- **[TIC-80](https://github.com/nesbox/TIC-80)** [![GitHub_Stars](https://img.shields.io/github/stars/nesbox/TIC-80?style=social&color=white)](https://github.com/nesbox/TIC-80/stargazers)  
   Free and open-source fantasy computer for making, playing, and sharing tiny games with built-in code, sprite, map, and sound editors.
 
-- **[Wish](https://github.com/charmbracelet/wish)** [![GitHub stars](https://img.shields.io/github/stars/charmbracelet/wish?style=social&color=white)](https://github.com/charmbracelet/wish/stargazers)  
+- **[Wish](https://github.com/charmbracelet/wish)** [![GitHub_Stars](https://img.shields.io/github/stars/charmbracelet/wish?style=social&color=white)](https://github.com/charmbracelet/wish/stargazers)  
   Open-source Go library by Charm for building SSH-hosted interactive terminal applications, multiplayer TUI games, and bulletin boards over SSH.
 
-- **[cmatrix](https://github.com/abishekvashok/cmatrix)** [![GitHub stars](https://img.shields.io/github/stars/abishekvashok/cmatrix?style=social&color=white)](https://github.com/abishekvashok/cmatrix/stargazers)  
+- **[cmatrix](https://github.com/abishekvashok/cmatrix)** [![GitHub_Stars](https://img.shields.io/github/stars/abishekvashok/cmatrix?style=social&color=white)](https://github.com/abishekvashok/cmatrix/stargazers)  
   Iconic open-source terminal utility simulating the scrolling green digital rain from The Matrix with customizable colors and scroll speeds.
 
-- **[NetHack](https://github.com/NetHack/NetHack)** [![GitHub stars](https://img.shields.io/github/stars/NetHack/NetHack?style=social&color=white)](https://github.com/NetHack/NetHack/stargazers)  
+- **[NetHack](https://github.com/NetHack/NetHack)** [![GitHub_Stars](https://img.shields.io/github/stars/NetHack/NetHack?style=social&color=white)](https://github.com/NetHack/NetHack/stargazers)  
   Legendary open-source ASCII dungeon-crawling roguelike game that defined procedural depth, emergent item interactions, and terminal gaming for decades.
 
-- **[sl (Steam Locomotive)](https://github.com/mtoyoda/sl)** [![GitHub stars](https://img.shields.io/github/stars/mtoyoda/sl?style=social&color=white)](https://github.com/mtoyoda/sl/stargazers)  
+- **[sl (Steam Locomotive)](https://github.com/mtoyoda/sl)** [![GitHub_Stars](https://img.shields.io/github/stars/mtoyoda/sl?style=social&color=white)](https://github.com/mtoyoda/sl/stargazers)  
   Classic open-source CLI humor utility that drives an animated ASCII steam locomotive across your terminal whenever you accidentally type sl instead of ls.
 
-- **[PacVim](https://github.com/jmoon018/PacVim)** [![GitHub stars](https://img.shields.io/github/stars/jmoon018/PacVim?style=social&color=white)](https://github.com/jmoon018/PacVim/stargazers)  
+- **[PacVim](https://github.com/jmoon018/PacVim)** [![GitHub_Stars](https://img.shields.io/github/stars/jmoon018/PacVim?style=social&color=white)](https://github.com/jmoon018/PacVim/stargazers)  
   Fun open-source terminal game that teaches you Vim motions (h/j/k/l, w, b, e, $, ^) while dodging ghosts across a Pac-Man maze.
 
-- **[Dungeon Crawl Stone Soup (DCSS)](https://github.com/crawl/crawl)** [![GitHub stars](https://img.shields.io/github/stars/crawl/crawl?style=social&color=white)](https://github.com/crawl/crawl/stargazers)  
+- **[Dungeon Crawl Stone Soup (DCSS)](https://github.com/crawl/crawl)** [![GitHub_Stars](https://img.shields.io/github/stars/crawl/crawl?style=social&color=white)](https://github.com/crawl/crawl/stargazers)  
   The premier open-source traditional roguelike RPG playable natively in ANSI/Unicode terminals, desktop tiles, or over public SSH/WebTiles servers.
 
-- **[ssh-tron](https://github.com/zachlatta/sshtron)** [![GitHub stars](https://img.shields.io/github/stars/zachlatta/sshtron?style=social&color=white)](https://github.com/zachlatta/sshtron/stargazers)  
+- **[ssh-tron](https://github.com/zachlatta/sshtron)** [![GitHub_Stars](https://img.shields.io/github/stars/zachlatta/sshtron?style=social&color=white)](https://github.com/zachlatta/sshtron/stargazers)  
   Multiplayer Tron light-cycle arcade game playable by anyone simply running ssh sshtron.zachlatta.com directly from their terminal.
 
-- **[WASM-4](https://github.com/aduros/wasm4)** [![GitHub stars](https://img.shields.io/github/stars/aduros/wasm4?style=social&color=white)](https://github.com/aduros/wasm4/stargazers)  
+- **[WASM-4](https://github.com/aduros/wasm4)** [![GitHub_Stars](https://img.shields.io/github/stars/aduros/wasm4?style=social&color=white)](https://github.com/aduros/wasm4/stargazers)  
   Minimalist open-source retro fantasy console built on WebAssembly allowing developers to build 160x160 4-color games in C, C++, Rust, Go, Zig, or AssemblyScript.
 
-- **[Brogue CE](https://github.com/tmewett/BrogueCE)** [![GitHub stars](https://img.shields.io/github/stars/tmewett/BrogueCE?style=social&color=white)](https://github.com/tmewett/BrogueCE/stargazers)  
+- **[Brogue CE](https://github.com/tmewett/BrogueCE)** [![GitHub_Stars](https://img.shields.io/github/stars/tmewett/BrogueCE?style=social&color=white)](https://github.com/tmewett/BrogueCE/stargazers)  
   Community Edition of the acclaimed open-source roguelike celebrated for lush true-color ASCII lighting, intuitive mouse/keyboard terminal UI, and pure tactical gameplay.
 
-- **[asciiquarium](https://github.com/cmatsuoka/asciiquarium)** [![GitHub stars](https://img.shields.io/github/stars/cmatsuoka/asciiquarium?style=social&color=white)](https://github.com/cmatsuoka/asciiquarium/stargazers)  
+- **[asciiquarium](https://github.com/cmatsuoka/asciiquarium)** [![GitHub_Stars](https://img.shields.io/github/stars/cmatsuoka/asciiquarium?style=social&color=white)](https://github.com/cmatsuoka/asciiquarium/stargazers)  
   Whimsical open-source Perl and ncurses terminal aquarium animation populated with ASCII fish, sharks, whales, submarines, and sea monsters.
 
-- **[chess-tui](https://github.com/thomas-mauran/chess-tui)** [![GitHub stars](https://img.shields.io/github/stars/thomas-mauran/chess-tui?style=social&color=white)](https://github.com/thomas-mauran/chess-tui/stargazers)  
+- **[chess-tui](https://github.com/thomas-mauran/chess-tui)** [![GitHub_Stars](https://img.shields.io/github/stars/thomas-mauran/chess-tui?style=social&color=white)](https://github.com/thomas-mauran/chess-tui/stargazers)  
   Sleek open-source terminal chess client written in Rust with Ratatui supporting local play, Stockfish/UCI engines, and online Lichess multiplayer.
 
-- **[ttt](https://github.com/eugenioenko/ttt)** [![GitHub stars](https://img.shields.io/github/stars/eugenioenko/ttt?style=social&color=white)](https://github.com/eugenioenko/ttt/stargazers)  
+- **[ttt](https://github.com/eugenioenko/ttt)** [![GitHub_Stars](https://img.shields.io/github/stars/eugenioenko/ttt?style=social&color=white)](https://github.com/eugenioenko/ttt/stargazers)  
   Terminal Tic-Tac-Toe & interactive CLI game project built for fast, clean terminal gameplay.
 
-- **[typioca](https://github.com/bloznelis/typioca)** [![GitHub stars](https://img.shields.io/github/stars/bloznelis/typioca?style=social&color=white)](https://github.com/bloznelis/typioca/stargazers)  
+- **[typioca](https://github.com/bloznelis/typioca)** [![GitHub_Stars](https://img.shields.io/github/stars/bloznelis/typioca?style=social&color=white)](https://github.com/bloznelis/typioca/stargazers)  
   Cozy, minimalist open-source terminal typing speed tester written in Go featuring interactive WPM graphs, custom wordlists, and instant restarts.
 
-- **[tt (Terminal Typing Test)](https://github.com/lemnos/tt)** [![GitHub stars](https://img.shields.io/github/stars/lemnos/tt?style=social&color=white)](https://github.com/lemnos/tt/stargazers)  
+- **[tt (Terminal Typing Test)](https://github.com/lemnos/tt)** [![GitHub_Stars](https://img.shields.io/github/stars/lemnos/tt?style=social&color=white)](https://github.com/lemnos/tt/stargazers)  
   Clean, dependency-light open-source command-line typing test written in Go supporting quotes, code snippets, custom themes, and detailed accuracy stats.
 
-- **[gambit](https://github.com/maaslalani/gambit)** [![GitHub stars](https://img.shields.io/github/stars/maaslalani/gambit?style=social&color=white)](https://github.com/maaslalani/gambit/stargazers)  
+- **[gambit](https://github.com/maaslalani/gambit)** [![GitHub_Stars](https://img.shields.io/github/stars/maaslalani/gambit?style=social&color=white)](https://github.com/maaslalani/gambit/stargazers)  
   Clean, minimalist open-source chess game in the terminal built with Go and Bubble Tea framework for mouse and keyboard play.
 
-- **[2048.c](https://github.com/mevdschee/2048.c)** [![GitHub stars](https://img.shields.io/github/stars/mevdschee/2048.c?style=social&color=white)](https://github.com/mevdschee/2048.c/stargazers)  
+- **[2048.c](https://github.com/mevdschee/2048.c)** [![GitHub_Stars](https://img.shields.io/github/stars/mevdschee/2048.c?style=social&color=white)](https://github.com/mevdschee/2048.c/stargazers)  
   Ultra-lightweight single-file open-source console implementation of the addictive 2048 sliding-tile puzzle game written in pure C.
 
-- **[Bastet (Bastard Tetris)](https://github.com/fph/bastet)** [![GitHub stars](https://img.shields.io/github/stars/fph/bastet?style=social&color=white)](https://github.com/fph/bastet/stargazers)  
+- **[Bastet (Bastard Tetris)](https://github.com/fph/bastet)** [![GitHub_Stars](https://img.shields.io/github/stars/fph/bastet?style=social&color=white)](https://github.com/fph/bastet/stargazers)  
   Notorious open-source ncurses Tetris variant that uses an adversarial algorithm to deliberately deal you the worst possible brick every single turn.
 
-- **[BSD Games](https://github.com/vattam/BSDGames)** [![GitHub stars](https://img.shields.io/github/stars/vattam/BSDGames?style=social&color=white)](https://github.com/vattam/BSDGames/stargazers)  
+- **[BSD Games](https://github.com/vattam/BSDGames)** [![GitHub_Stars](https://img.shields.io/github/stars/vattam/BSDGames?style=social&color=white)](https://github.com/vattam/BSDGames/stargazers)  
   Classic collection of traditional Unix/BSD command-line games including adventure, rogue, hack, robots, worm, trek, tetris-bsd, and hunt.
 
-- **[nSnake](https://github.com/alexdantas/nSnake)** [![GitHub stars](https://img.shields.io/github/stars/alexdantas/nSnake?style=social&color=white)](https://github.com/alexdantas/nSnake/stargazers)  
+- **[nSnake](https://github.com/alexdantas/nSnake)** [![GitHub_Stars](https://img.shields.io/github/stars/alexdantas/nSnake?style=social&color=white)](https://github.com/alexdantas/nSnake/stargazers)  
   Classic open-source Snake arcade game for the terminal built with C and ncurses featuring multiple game modes, speed levels, and custom mazes.
 
 ---
